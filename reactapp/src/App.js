@@ -1,3 +1,4 @@
+import Demo from './Demo';
 import logo from './logo.svg';
 import './App.css';
 
